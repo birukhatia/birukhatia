@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @birukhatia
+- 👀 I’m interested in software and web development
+- 🌱 I’m currently learning web development
